@@ -57,6 +57,30 @@ ul li {
 /*Styling Home Section */
 
 
+#home {
+    display: flex;
+    flex-direction: column;
+}
+#home h1, p  {
+    text-align: center;
+    color: white;
+}
+.photo-section {
+display: flex;
+flex-direction: column;
+
+}
+
+.photo-section  .photo {
+    width: 70%;
+    border-radius: 1rem;
+    margin: auto;
+}
+
+.project-container {
+    display: flex;
+    flex-direction: column;
+}
 
 
 
