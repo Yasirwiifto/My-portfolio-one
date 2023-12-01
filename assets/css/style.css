@@ -85,3 +85,41 @@ ul li {
 
 
 /*Styling Contact Section */
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media queries*/
+
+/*Media queries devices for 578px and up*/
+@media (min-width: 578px) {
+    /*header*/
+    .priject-container {
+        display: flex;
+        flex-direction: row;
+    }
+    }
+
+/*Media queries devices for 768px and up*/
+@media (min-width: 768px) {
+/*header*/
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.priject-container {
+    display: flex;
+    flex-direction: row;
+}
+}
