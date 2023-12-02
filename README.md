@@ -89,5 +89,61 @@ I've designed it to showcase my skills and experience.
 
 #### ***tablet contact section***
 ![Contact section](assets/design/tablet-contact.png)
+
 ***
+
+
+## **Features**
+My website has one Index page that contains three sections. Home Section, About Section and Contact Section. It’s designed to be responsive to various screen sizes.
+ 
+
+ ### ***Header:***
+ - logo and navbar.
+
+### ***Home Section:***
+     Header with a logo and navbar,  
+
+### ***About Section:***
+     Header with a logo and navbar.
+
+### ***Contact Section:***
+    Header with a logo and navbar.
+***
+
+## **Technologies**
+
+* HTML
+* CSS
+
+***
+
+## Deployment
+
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+*  Log in (or sign up) to Github.
+
+* Find the repository for this project, My-portfolio-one.
+
+* Go to the Settings.
+
+* Click on the Pages link in the left hand side navigation bar.
+
+* Go to the Branch section, choose main from the drop down. 
+
+*  Click Save. 
+
+* Wait a few minutes then refresh the page.
+
+* You will see:- Your live Github Pages site is now deployed at the URL shown.
+
+***
+
+## Testing
+
+
+## Credits
+
+
 
