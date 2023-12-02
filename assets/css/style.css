@@ -251,7 +251,7 @@ h2 {
 
 #form {
     background-color: #444444;
-    width: 80%;
+    width: 90%;
     border-radius: 10px;
     margin: auto;
 }
@@ -273,7 +273,7 @@ h2 {
 
 #name,
 #email {
-    width: 50%;
+    width: 70%;
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 0.5rem 0.7rem;
@@ -282,7 +282,7 @@ h2 {
 
 
 #text-area{
-    width: 50%;
+    width: 70%;
     height: 250px;
 }
 #submit {
@@ -372,7 +372,7 @@ h2 {
 
 #form {
     background-color: #444444;
-    width: 80%;
+    width: 50%;
     border-radius: 10px;
     margin: auto;
 }
@@ -449,6 +449,32 @@ h2 {
 
     /*End of Styling About section*/
 
+
+    /*Styling Contact Section*/
+
+
+    #form {
+        background-color: #444444;
+        width: 50%;
+        border-radius: 10px;
+        margin: auto;
+    }
+    
+    #name,
+    #email {
+        width: 50%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 0.5rem 0.7rem;
+    }
+    
+    
+    #text-area{
+        width: 50%;
+        height: 250px;
+    }
+    
+        /*End of Styling Contact Section*/
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -509,6 +535,32 @@ h2 {
 
     /*End of Styling About section*/
 
+
+    /*Styling Contact Section*/
+
+
+    #form {
+        background-color: #444444;
+        width: 40%;
+        border-radius: 10px;
+        margin: auto;
+    }
+    
+    #name,
+    #email {
+        width: 50%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 0.5rem 0.7rem;
+    }
+    
+    
+    #text-area{
+        width: 50%;
+        height: 250px;
+    }
+    
+        /*End of Styling Contact Section*/
 }
 
 /*X-Large devices (large desktops, 1200px and up)*/
