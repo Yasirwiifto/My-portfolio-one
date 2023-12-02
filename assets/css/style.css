@@ -104,7 +104,7 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100;
+    width: 100%;
     margin-top: 1rem;
     border-radius: 2rem;
     margin: auto;
@@ -180,10 +180,12 @@ p {
     width: 100%;
     background-color: #6f6e6e;
     border-radius: .7rem;
+    margin: auto;
 
 }
 
-#about h1 ,h2 {
+#about h1,
+h2 {
     text-align: center;
     color: #ffffff;
 }
@@ -192,7 +194,7 @@ p {
     text-align: center;
 }
 
-.about p { 
+.about p {
     width: 70%;
     text-align: center;
     padding-top: 1rem;
@@ -240,6 +242,66 @@ p {
 
 /*Styling Contact Section */
 
+#contact {
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+
+#form {
+    background-color: #444444;
+    width: 80%;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#form h1 {
+    color: #ffffff;
+    font-family: serif;
+}
+
+.label {
+    font-size: 1.3rem;
+    display: block;
+    color: #ffffff;
+}
+
+.form-group {
+    margin-bottom: .7rem;
+}
+
+#name,
+#email {
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem 0.7rem;
+    margin: auto;
+}
+
+
+#text-area{
+    width: 50%;
+    height: 250px;
+}
+#submit {
+    border: 3px solid #000000;
+    border-radius: 20px;
+    background-color: #000000;
+    color: #f1f1f1;
+    padding: 0.4rem;
+    font-size: 1.3rem;
+    margin: auto;
+}
+
+#submit:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/*End of Styling Contact Section */
+
 
 
 
@@ -283,26 +345,53 @@ p {
 
 
 
-/*Styling About section*/
-.about p { 
-    width: 60%;
-    text-align: center;
-    margin: auto;
-}
+    /*Styling About section*/
+    .about p {
+        width: 60%;
+        text-align: center;
+        margin: auto;
+    }
 
-.about-display {
-    display: flex;
-    text-align: center;
-    width: 90%;
-    margin: auto;
-}
+    .about-display {
+        display: flex;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
 
-.about-aside {
-    width: 90%;
-    min-height: 100px;
-}
+    .about-aside {
+        width: 90%;
+        min-height: 100px;
+    }
 
     /*End of Styling About section*/
+
+
+    /*Styling Contact Section*/
+
+
+#form {
+    background-color: #444444;
+    width: 80%;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#name,
+#email {
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem 0.7rem;
+}
+
+
+#text-area{
+    width: 50%;
+    height: 250px;
+}
+
+    /*End of Styling Contact Section*/
 }
 
 /*Medium devices (tablets, 768px and up)*/
@@ -339,25 +428,26 @@ p {
     /*End of home section*/
 
 
-/*Styling About section*/
-.about p { 
-    width: 50%;
-    text-align: center;
-    margin: auto;
-}
+    /*Styling About section*/
+    .about p {
+        width: 50%;
+        text-align: center;
+        margin: auto;
+    }
 
-.about-display {
-    display: flex;
-    text-align: center;
-    width: 90%;
-    margin: auto;
-}
+    .about-display {
+        display: flex;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
 
-.about-aside {
-    width: 90%;
-    min-height: 100px;
-}
- /*End of Styling About section*/
+    .about-aside {
+        width: 90%;
+        min-height: 100px;
+    }
+
+    /*End of Styling About section*/
 
 }
 
@@ -394,28 +484,30 @@ p {
         padding-top: 1rem;
         margin: auto;
     }
+
     /*End of home section*/
 
 
-/*Styling About section*/
-.about p { 
-    width: 50%;
-    text-align: center;
-    margin: auto;
-}
+    /*Styling About section*/
+    .about p {
+        width: 50%;
+        text-align: center;
+        margin: auto;
+    }
 
-.about-display {
-    display: flex;
-    text-align: center;
-    width: 90%;
-    margin: auto;
-}
+    .about-display {
+        display: flex;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
 
-.about-aside {
-    width: 90%;
-    min-height: 100px;
-}
- /*End of Styling About section*/
+    .about-aside {
+        width: 90%;
+        min-height: 100px;
+    }
+
+    /*End of Styling About section*/
 
 }
 
@@ -453,28 +545,30 @@ p {
         padding-top: 1rem;
         margin: auto;
     }
+
     /*End of home section*/
 
 
-/*Styling About section*/
-.about p { 
-    width: 40%;
-    text-align: center;
-    margin: auto;
-}
+    /*Styling About section*/
+    .about p {
+        width: 40%;
+        text-align: center;
+        margin: auto;
+    }
 
-.about-display {
-    display: flex;
-    text-align: center;
-    width: 80%;
-    margin: auto;
-}
+    .about-display {
+        display: flex;
+        text-align: center;
+        width: 80%;
+        margin: auto;
+    }
 
-.about-aside {
-    width: 90%;
-    min-height: 100px;
-}
- /*End of Styling About section*/
+    .about-aside {
+        width: 90%;
+        min-height: 100px;
+    }
+
+    /*End of Styling About section*/
 
 
 }
@@ -510,27 +604,29 @@ p {
         padding-top: 1rem;
         margin: auto;
     }
+
     /*End of home section*/
 
 
 
-/*Styling About section*/
-.about p { 
-    width: 40%;
-    text-align: center;
-    margin: auto;
-}
+    /*Styling About section*/
+    .about p {
+        width: 40%;
+        text-align: center;
+        margin: auto;
+    }
 
-.about-display {
-    display: flex;
-    text-align: center;
-    width: 90%;
-    margin: auto;
-}
+    .about-display {
+        display: flex;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
 
-.about-aside {
-    width: 90%;
-    min-height: 100px;
-}
- /*End of Styling About section*/
+    .about-aside {
+        width: 90%;
+        min-height: 100px;
+    }
+
+    /*End of Styling About section*/
 }
