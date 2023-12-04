@@ -23,8 +23,8 @@ I am creating this portfolio as part of three series projects, this is the first
     * [**Home Section**](#home-section)
     * [**About Section**](#about-section)
     * [**Contact Section**](#contact-section)
-1. [**Technologies**](#technologies)
 1. [**Deployment**](#deployment)
+1. [**Technologies**](#technologies)
 1. [**Testing**](#testing)
 1. [**Credits**](#credits)
 
@@ -100,15 +100,68 @@ My website has one Index page that contains three sections. Home Section, About 
  ### ***Header:***
  - logo and navbar.
 
+
+
 ### ***Home Section:***
-     Header with a logo and navbar,  
+
+Displays the site title with brief description under the site, image and project with two separate buttons when clicked open external links. 
+
+***
 
 ### ***About Section:***
-     Header with a logo and navbar.
+
+Displays subtitle with brief introduction. Also, skills and achievements sections.
+***
 
 ### ***Contact Section:***
-    Header with a logo and navbar.
+
+Displays form that contains header, three label with two inputs and textarea and submit button.
+
 ***
+
+### ***Footer:***
+
+The footer contains three social links each link opens external link.
+
+***
+## Testing
+
+### **Manual testing** 
+
+
+| Feature                    | Expected Outcome                                                                                      | Testing Performed                                                                       | Result                                                        | Pass/Fail |
+| -------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
+| logo          | When clicked return the home page                                                           | Clicked logo                                                                           | Home page reloads                                             | Pass      |
+| The navbar menu (Home, About and Contact)        | When clicked a button displays the chosen section.                                                                        | Clicked on button                                                                       | Opens the chosen section.                                      | Pass      |
+| Home section button links    | Once clicked on these links, they open on external tab                                                                                           | Clicked home button links                                                                | Opens external links                 | Pass      |
+| About section button links         | Instructions box opens                                                                                | Clicked Contact                                                                       | the instruction box opens                                     | Pass      |
+| Contact section link          | When filled the name appears at the buttom and uppon clicking save the name is saved to local storage | Filled the empty box then clicked save                                                  | The name is saved to the local storage                        | Pass      |
+| All buttons - hover effect | display white background and black color when hovered over.             | Hover over each button on the page                                                      | Each button displayed the correct styling when hovered over   | Pass      |
+| Social links in footer     | Once clicked on these links, they open on external tab                                                | clicked on each link                                                                    | the social links opened on external tab each                  | Pass      |
+
+
+
+    Testing using other screen size devices and browsers
+
+Comprehensive testing was conducted on the following devices:
+
+Laptop:
+
+- MacBook Air
+
+Mobile Devices:
+
+- iPhone 13 Pro Max
+
+Furthermore, the website underwent testing using the following browsers:
+
+- Google Chrome
+- Safari
+
+I have a few problem for the responsive when taken these steps but fixed them all no issues.
+
+***
+
 
 ## **Technologies**
 
@@ -140,7 +193,7 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 
 ***
 
-## Testing
+
 
 
 ## Credits
