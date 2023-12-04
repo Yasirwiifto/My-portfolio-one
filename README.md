@@ -140,7 +140,6 @@ The footer contains three social links each link opens external link.
 | Social links in footer     | Once clicked on these links, they open on external tab                                                | Clicked on each link                                                                    | The social links opened on external tab each                  | Pass      |
 
 
-
     Testing using other screen size devices and browsers
 
 Comprehensive testing was conducted on the following devices:
@@ -161,6 +160,33 @@ Furthermore, the website underwent testing using the following browsers:
 I have a few problem for the responsive when taken these steps but fixed them all no issues.
 
 ***
+
+
+## Automated Testing
+
+### W3C Validator
+
+I used [W3C](https://validator.w3.org/) to validate both the HTML and CSS with direct input on both pages of the website.
+
+- HTML W3C Validator
+
+The results were pass with No errors or warnings to show. 
+
+![index.html](assets/testing/html-validator.png)
+
+***
+
+- CSS Validator
+
+The results were Congratulations! No Error Found. 
+
+![style.css](assets/testing/css-validator.png)
+
+
+***
+
+
+
 
 
 ## **Technologies**
