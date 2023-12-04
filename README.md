@@ -79,15 +79,15 @@ I've designed it to showcase my skills and experience.
 ![Contact section](assets/design/mobile-contact.png)
 ***
 
-#### ***tablet home section***
+#### ***Tablet home section***
 ![Home section](assets/design/tablet-home.png)
 ***
 
-#### ***tablet about section***
-![about section](assets/design/tablet-about.png)
+#### ***Tablet about section***
+![About section](assets/design/tablet-about.png)
 ***
 
-#### ***tablet contact section***
+#### ***Tablet contact section***
 ![Contact section](assets/design/tablet-contact.png)
 
 ***
@@ -100,28 +100,44 @@ My website has one Index page that contains three sections. Home Section, About 
  ### ***Header:***
  - logo and navbar.
 
+![Header](assets/images/header.png)
 
+***
 
 ### ***Home Section:***
 
 Displays the site title with brief description under the site, image and project with two separate buttons when clicked open external links. 
+
+
+![Home section](assets/images/homesection.png)
+
+
+![Home section](assets/images/homesection-1.png)
 
 ***
 
 ### ***About Section:***
 
 Displays subtitle with brief introduction. Also, skills and achievements sections.
+
+
+![About section](assets/images/aboutsectoin.png)
+
 ***
 
 ### ***Contact Section:***
 
 Displays form that contains header, three label with two inputs and textarea and submit button.
 
+![Contact section](assets/images/contactsection.png)
+
 ***
 
 ### ***Footer:***
 
 The footer contains three social links each link opens external link.
+
+![Footer](assets/images/footer.png)
 
 ***
 ## Testing
@@ -144,11 +160,11 @@ The footer contains three social links each link opens external link.
 
 Comprehensive testing was conducted on the following devices:
 
-Laptop:
+    Laptop:
 
 - MacBook Air
 
-Mobile Devices:
+    Mobile Devices:
 
 - iPhone 13 Pro Max
 
@@ -166,7 +182,7 @@ I have a few problem for the responsive when taken these steps but fixed them al
 
 ### W3C Validator
 
-I used [W3C](https://validator.w3.org/) to validate both the HTML and CSS with direct input on both pages of the website.
+I used [W3C](https://www.w3.org/) to validate both the HTML and CSS with direct input on both pages of the website.
 
     HTML W3C Validator
 
@@ -189,14 +205,17 @@ The results were Congratulations! No Error Found.
 
 I utilized Lighthouse, a feature within Chrome Developer Tools, to assess the website's performance, accessibility, adherence to best practices, and SEO.
 
+    Mobile lighthouse
+
 ![home-mobile-lighthouse](assets/testing/mobile-lighthouse.png)
 
 ***
 
+     Desktop lighthouse
+
 ![home-desktop-lighthouse](assets/testing/desktop-lighthouse.png)
 
 ***
-
 
 
 ## **Technologies**
