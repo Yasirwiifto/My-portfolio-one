@@ -23,9 +23,9 @@ I am creating this portfolio as part of three series projects, this is the first
     * [**Home Section**](#home-section)
     * [**About Section**](#about-section)
     * [**Contact Section**](#contact-section)
-1. [**Deployment**](#deployment)
-1. [**Technologies**](#technologies)
 1. [**Testing**](#testing)
+1. [**Technologies**](#technologies)
+1. [**Deployment**](#deployment)
 1. [**Credits**](#credits)
 
 ***
