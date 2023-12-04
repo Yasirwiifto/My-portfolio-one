@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #595959;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /*Styling Header */
@@ -19,6 +20,7 @@ header {
     width: 100%;
     min-height: 100px;
     background-color: #6f6e6e;
+    font-family: serif;
 }
 
 nav {
@@ -70,10 +72,15 @@ li a {
     flex-direction: column;
 }
 
-#home h1,
-p {
+#home h1 {
     text-align: center;
     color: white;
+    font-family: serif;
+}
+#home p {
+    text-align: center;
+    color: white;
+    font-family: serif;
 }
 
 .photo-section {
@@ -99,6 +106,7 @@ p {
     margin-top: .5rem;
     text-align: center;
     color: #f5f4f4;
+    font-family: serif;
 }
 
 .project-container {
@@ -128,7 +136,8 @@ p {
     padding-top: 1rem;
     margin: auto;
     color: #ffffff;
-    border-bottom: 1px solid rgb(237, 237, 237);
+    font-family: serif;
+    border-bottom: 1px solid #ededed;
 }
 
 .projects p {
@@ -151,6 +160,7 @@ p {
     background-color: black;
     border-radius: 1rem;
     padding: .2rem;
+    font-family: serif;
 }
 
 .cta:hover,
@@ -163,6 +173,7 @@ p {
     display: flex;
     justify-content: center;
     margin-bottom: 1.5rem;
+    font-family: serif;
 }
 
 /*End of project link */
@@ -185,10 +196,13 @@ p {
 h2 {
     text-align: center;
     color: #ffffff;
+    font-family: serif;
 }
 
 .about h2 {
     text-align: center;
+    color: #ffffff;
+    font-family: serif;
 }
 
 .about p {
@@ -214,6 +228,7 @@ h2 {
 
 .about-aside h3 {
     color: #ffffff;
+    font-family: serif;
 }
 
 .skills,
@@ -222,11 +237,11 @@ h2 {
     background-color: #444444;
 }
 
-
 .git-btn {
     display: flex;
     justify-content: center;
     margin-bottom: 1.5rem;
+    font-family: serif;
 }
 
 /*End of Styling About Section */
@@ -256,6 +271,7 @@ h2 {
     font-size: 1.3rem;
     display: block;
     color: #ffffff;
+    font-family: serif;
 }
 
 .form-group {
@@ -269,6 +285,7 @@ h2 {
     border-radius: 5px;
     padding: 0.5rem 0.7rem;
     margin: auto;
+    font-family: serif;
 }
 
 #text-area {
@@ -284,6 +301,7 @@ h2 {
     font-size: 1.3rem;
     margin: auto;
     margin-bottom: .3rem;
+    font-family: serif;
 }
 
 #submit:hover {
@@ -313,6 +331,7 @@ h2 {
     color: #ffffff;
     font-size: 1rem;
     margin: .2rem;
+    font-family: serif;
 
 }
 
@@ -347,8 +366,6 @@ h2 {
     }
 
     /*End of home section*/
-
-
 
     /*Styling About section*/
     .about p {
