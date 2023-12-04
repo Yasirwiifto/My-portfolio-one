@@ -168,7 +168,7 @@ I have a few problem for the responsive when taken these steps but fixed them al
 
 I used [W3C](https://validator.w3.org/) to validate both the HTML and CSS with direct input on both pages of the website.
 
-    addHTML W3C Validator
+    HTML W3C Validator
 
 The results were pass with No errors or warnings to show. 
 
