@@ -271,6 +271,7 @@ I utilized Lighthouse, a feature within Chrome Developer Tools, to assess the we
 * chat.openai - to write README file for the document.
 * cooler - to check color contrast and the background and text color.
 
+*** 
 
 ## Deployment
 
@@ -294,11 +295,3 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 * You will see:- Your live Github Pages site is now deployed at the URL shown.
 
 ***
-
-
-
-
-## Credits
-
-
-
