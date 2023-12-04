@@ -168,7 +168,7 @@ I have a few problem for the responsive when taken these steps but fixed them al
 
 I used [W3C](https://validator.w3.org/) to validate both the HTML and CSS with direct input on both pages of the website.
 
-- HTML W3C Validator
+    addHTML W3C Validator
 
 The results were pass with No errors or warnings to show. 
 
@@ -176,16 +176,26 @@ The results were pass with No errors or warnings to show.
 
 ***
 
-- CSS Validator
+    CSS Validator
 
 The results were Congratulations! No Error Found. 
 
 ![style.css](assets/testing/css-validator.png)
 
-
 ***
 
 
+### Lighthouse
+
+I utilized Lighthouse, a feature within Chrome Developer Tools, to assess the website's performance, accessibility, adherence to best practices, and SEO.
+
+![home-mobile-lighthouse](assets/testing/mobile-lighthouse.png)
+
+***
+
+![home-desktop-lighthouse](assets/testing/desktop-lighthouse.png)
+
+***
 
 
 
