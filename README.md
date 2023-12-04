@@ -93,6 +93,38 @@ I've designed it to showcase my skills and experience.
 ***
 
 
+### **Color Scheme**
+
+    I have used different colors for each section
+
+* I have used Body color, home section and contact section same color.
+
+![Body Color](assets/images/bodycolor.png)
+
+***
+* I have used Header and footer same color
+
+
+![Header Color](assets/images/headercolor.png)
+
+
+* About Section
+
+![Header Color](assets/images/headercolor.png)
+
+![Body Color](assets/images/bodycolor.png)
+
+
+### Typography
+
+    I used two fonts for this project:
+
+* Arial, Helvetica and sans-serif for the body
+
+* serif for the heading
+
+
+
 ## **Features**
 My website has one Index page that contains three sections. Home Section, About Section and Contact Section. It’s designed to be responsive to various screen sizes.
  
@@ -142,7 +174,7 @@ The footer contains three social links each link opens external link.
 ***
 ## Testing
 
-### **Manual testing** 
+### **Manual testing**
 
 
 | Feature                    | Expected Outcome                                                                                      | Testing Performed                                                                       | Result                                                        | Pass/Fail |
@@ -162,16 +194,16 @@ Comprehensive testing was conducted on the following devices:
 
     Laptop:
 
-- MacBook Air
+* MacBook Air
 
     Mobile Devices:
 
-- iPhone 13 Pro Max
+* iPhone 13 Pro Max
 
 Furthermore, the website underwent testing using the following browsers:
 
-- Google Chrome
-- Safari
+* Google Chrome
+* Safari
 
 I have a few problem for the responsive when taken these steps but fixed them all no issues.
 
